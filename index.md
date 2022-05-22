@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RQ264 Pages
 
 You can use the [editor on GitHub](https://github.com/Sutiwat-RQ264Lab/rq264lab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
